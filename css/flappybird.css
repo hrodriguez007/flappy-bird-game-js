@@ -1,0 +1,33 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../flappy-font.ttf);
+}
+
+h2 {
+    font-family: myFirstFont;
+    color: #000;
+    position: absolute;
+    left: 8%;
+}
+
+.start-screen {
+    font-family: myFirstFont;
+    src: url(../flappy-font.ttf);
+    position: absolute;
+    font-size: 2.2vmin;
+    top: 15%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+  }
+
+body {
+    text-align: center;
+    padding-left: 5px;
+}
+
+#board {
+    /* test that image loads */
+    /* background-color: blueviolet; */
+    background-image: url("../images/flappybirdbg.png");
+}
