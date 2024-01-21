@@ -1,4 +1,4 @@
-### This is a Dino Game using JS, HTML Canvas, and CSS
-Similiar to the one from the Google Chrome Web browser developed by members of the Chrome UX team in 2014.
+### This is a Flappy Bird Game using JS, HTML Canvas, and CSS
+Similiar to the one created by Dong Nguyen in 2013.
 
-[Click here to see it live](https://hrodriguez007.github.io/dino-chrome-game-js//)
+[Click here to see it live](https://hrodriguez007.github.io/flappy-bird-game-js/)
